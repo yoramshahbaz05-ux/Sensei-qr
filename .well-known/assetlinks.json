@@ -1,0 +1,8 @@
+    [{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.sensei_qr.twa",
+        "sha256_cert_fingerprints": ["05:75:B7:45:D7:85:A7:34:2C:7F:88:C7:1D:A6:12:8C:89:98:6E:4D:26:D6:4E:08:EA:5C:4C:4F:A9:2B:69:38"]
+      }
+    }]
